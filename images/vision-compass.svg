@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Abstract compass and vision illustration">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ff9a2c"/>
+      <stop offset="100%" stop-color="#ff7a00"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity=".9"/>
+      <stop offset="100%" stop-color="#a9b4c6" stop-opacity=".28"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" rx="52" fill="#08090c"/>
+  <circle cx="890" cy="230" r="280" fill="url(#g1)" fill-opacity=".16"/>
+  <circle cx="270" cy="180" r="160" fill="#ffffff" fill-opacity=".05"/>
+  <g transform="translate(600 430)">
+    <circle cx="0" cy="0" r="250" fill="#111417" stroke="#ffffff" stroke-opacity=".12" stroke-width="4"/>
+    <circle cx="0" cy="0" r="190" fill="none" stroke="url(#g1)" stroke-width="16" stroke-dasharray="18 22"/>
+    <circle cx="0" cy="0" r="126" fill="#0f1114" stroke="#ffffff" stroke-opacity=".14" stroke-width="8"/>
+    <path d="M0 -150 38 -22 0 0 -38 -22Z" fill="url(#g1)"/>
+    <path d="M0 150 38 22 0 0 -38 22Z" fill="#ffffff" fill-opacity=".85"/>
+    <path d="M-150 0 -22 38 0 0 -22 -38Z" fill="#ffffff" fill-opacity=".5"/>
+    <path d="M150 0 22 38 0 0 22 -38Z" fill="#ffffff" fill-opacity=".5"/>
+    <circle cx="0" cy="0" r="28" fill="url(#g1)"/>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-width="10">
+    <path d="M150 720 C260 610 360 610 470 720" stroke="url(#g1)" stroke-opacity=".8"/>
+    <path d="M730 120 C840 40 980 40 1090 120" stroke="#ffffff" stroke-opacity=".16"/>
+    <path d="M210 120 C320 40 460 40 570 120" stroke="#ffffff" stroke-opacity=".12"/>
+  </g>
+  <g transform="translate(130 520)">
+    <rect width="280" height="148" rx="28" fill="#111417" stroke="#ffffff" stroke-opacity=".12"/>
+    <rect x="24" y="28" width="160" height="18" rx="9" fill="#ffffff" fill-opacity=".2"/>
+    <rect x="24" y="60" width="220" height="14" rx="7" fill="#ffffff" fill-opacity=".12"/>
+    <rect x="24" y="84" width="120" height="14" rx="7" fill="#ffffff" fill-opacity=".12"/>
+    <circle cx="232" cy="74" r="30" fill="url(#g1)" fill-opacity=".85"/>
+  </g>
+</svg>

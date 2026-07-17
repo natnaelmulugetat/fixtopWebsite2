@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Abstract blueprint and tools illustration">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ff9a2c"/>
+      <stop offset="100%" stop-color="#ff7a00"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" rx="52" fill="#08090c"/>
+  <rect x="120" y="120" width="720" height="560" rx="34" fill="#111417" stroke="#ffffff" stroke-opacity=".12"/>
+  <g stroke="#ffffff" stroke-opacity=".08" stroke-width="2">
+    <path d="M160 180h640M160 240h640M160 300h640M160 360h640M160 420h640M160 480h640M160 540h640M160 600h640"/>
+    <path d="M220 160v500M300 160v500M380 160v500M460 160v500M540 160v500M620 160v500M700 160v500"/>
+  </g>
+  <g transform="translate(200 200)">
+    <rect width="220" height="120" rx="24" fill="url(#g1)" fill-opacity=".2" stroke="url(#g1)" stroke-opacity=".6"/>
+    <rect x="30" y="30" width="160" height="18" rx="9" fill="#ffffff" fill-opacity=".18"/>
+    <rect x="30" y="62" width="120" height="14" rx="7" fill="#ffffff" fill-opacity=".12"/>
+  </g>
+  <g transform="translate(500 250)">
+    <circle cx="0" cy="0" r="95" fill="none" stroke="url(#g1)" stroke-width="18"/>
+    <path d="M0 -70 28 -16 82 0 28 16 0 70 -28 16 -82 0 -28 -16Z" fill="#ffffff" fill-opacity=".85"/>
+  </g>
+  <g transform="translate(880 160)">
+    <rect width="200" height="200" rx="32" fill="#111417" stroke="#ffffff" stroke-opacity=".12"/>
+    <rect x="34" y="34" width="132" height="16" rx="8" fill="#ffffff" fill-opacity=".18"/>
+    <rect x="34" y="66" width="90" height="16" rx="8" fill="#ffffff" fill-opacity=".12"/>
+    <rect x="34" y="98" width="150" height="16" rx="8" fill="#ffffff" fill-opacity=".12"/>
+  </g>
+  <g transform="translate(860 420)">
+    <rect width="220" height="180" rx="32" fill="#111417" stroke="#ffffff" stroke-opacity=".12"/>
+    <path d="M38 120h144" stroke="url(#g1)" stroke-width="10" stroke-linecap="round"/>
+    <path d="M38 88h100" stroke="#ffffff" stroke-opacity=".16" stroke-width="8" stroke-linecap="round"/>
+    <path d="M38 56h132" stroke="#ffffff" stroke-opacity=".12" stroke-width="8" stroke-linecap="round"/>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-label="Abstract shield and values illustration">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ff9a2c"/>
+      <stop offset="100%" stop-color="#ff7a00"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity=".95"/>
+      <stop offset="100%" stop-color="#a9b4c6" stop-opacity=".22"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="900" rx="52" fill="#08090c"/>
+  <circle cx="230" cy="250" r="190" fill="url(#g1)" fill-opacity=".14"/>
+  <circle cx="970" cy="700" r="250" fill="#ffffff" fill-opacity=".04"/>
+  <g transform="translate(600 300)">
+    <path d="M0 0 190 60v140c0 150-95 252-190 302-95-50-190-152-190-302V60Z" fill="#111417" stroke="#ffffff" stroke-opacity=".12" stroke-width="4"/>
+    <path d="M0 46 110 80v96c0 88-54 150-110 184-56-34-110-96-110-184V80Z" fill="none" stroke="url(#g1)" stroke-width="18"/>
+    <path d="M0 104 38 164 110 176 58 224 70 296 0 258 -70 296 -58 224 -110 176 -38 164Z" fill="url(#g2)"/>
+  </g>
+  <g transform="translate(180 585)">
+    <rect width="320" height="150" rx="28" fill="#111417" stroke="#ffffff" stroke-opacity=".12"/>
+    <rect x="26" y="28" width="170" height="18" rx="9" fill="#ffffff" fill-opacity=".2"/>
+    <rect x="26" y="60" width="230" height="14" rx="7" fill="#ffffff" fill-opacity=".12"/>
+    <rect x="26" y="86" width="140" height="14" rx="7" fill="#ffffff" fill-opacity=".12"/>
+    <circle cx="258" cy="74" r="28" fill="url(#g1)" fill-opacity=".82"/>
+  </g>
+  <g transform="translate(790 540)">
+    <rect width="250" height="210" rx="28" fill="#111417" stroke="#ffffff" stroke-opacity=".12"/>
+    <path d="M34 164h182" stroke="url(#g1)" stroke-width="10" stroke-linecap="round"/>
+    <path d="M50 126h150" stroke="#ffffff" stroke-opacity=".16" stroke-width="8" stroke-linecap="round"/>
+    <path d="M50 92h118" stroke="#ffffff" stroke-opacity=".12" stroke-width="8" stroke-linecap="round"/>
+  </g>
+</svg>
